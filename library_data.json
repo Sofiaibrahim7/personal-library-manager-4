@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Novel",
+        "author": "umaira ahmed",
+        "year": 1995,
+        "genre": "fiction",
+        "read_status": true
+    },
+    {
+        "title": "Peer-e-Kamil",
+        "author": "Umera Ahmed",
+        "year": 2005,
+        "genre": "novel",
+        "read_status": true
+    },
+    {
+        "title": "Alchemist",
+        "author": "Paulo Coelho",
+        "year": 1988,
+        "genre": "Philosophy",
+        "read_status": false
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "year": 2018,
+        "genre": "Self-help",
+        "read_status": true
+    },
+    {
+        "title": "1",
+        "author": "umaira ahmed",
+        "year": 2004,
+        "genre": "fiction",
+        "read_status": false
+    }
+]
